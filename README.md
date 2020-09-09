@@ -2,11 +2,9 @@
 
 # Hey, everyone! 👋
 
-My name is **Joanne Chang**, and I'm a recently graduated UC Davis student with a Bachelor of Science degree in ***Computer Science & Engineering***. 
+My name is **Joanne Chang**, and I am a recently graduated UC Davis student (June 2020) with a Bachelor of Science degree in ***Computer Science & Engineering***. 
 I am currently looking for any software engineering or related job opportunity to kickstart my CS career. 
-
-<br>
-
+<br><br>
 Presently, I live in the Bay Area, but I am willing to relocate. 
 My resume is available [here](https://joanne-chang.github.io/pages/resume.html). 
 I also have a personal website showcasing my top 3 school projects [here](http://joanne-chang.github.io). 
