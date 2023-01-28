@@ -10,7 +10,9 @@ Previously, I studied at UC Davis (graduating June 2020) with a Bachelor of Scie
 
 ### What am I doing now?
 
-Outside of schoolwork, at the moment, I am looking for any software engineering or related job opportunity to kickstart my CS career. Any internships, full-time roles, part-time jobs, or other related positions are all of interest to me! Please feel free to reach out to me if you have any opportunities that might fit me well, or even if you just wanna chat~ (that's cool, too)
+Currently, I am working part-time at SCU's Robotics Systems Lab & participate in a number of school extracurriculars (ask me about that!) on top of all my schoolwork.
+
+Besides that, I am looking for any software engineering or related job opportunity to kickstart my CS career. Any internships, full-time roles, part-time jobs, or other related positions are all of interest to me! Please feel free to reach out to me if you have any opportunities that might fit me well, or even if you just wanna chat~ (that's cool, too)
 
 ## GitHub Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=joanne-chang&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
