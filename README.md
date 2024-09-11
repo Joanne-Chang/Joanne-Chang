@@ -8,9 +8,5 @@ Previously, I studied at UC Davis (graduating June 2020) with a Bachelor of Scie
 
 (I also have a few presentation videos available [here](https://www.youtube.com/@Joanne-Chang) showcasing a few school projects that I'd done! Please do check those out, too, if you're interested~)
 
-### NOTICE!
-
-I am currently looking for any software engineering or related job opportunity to kickstart my CS career. Any internships, full-time roles, part-time jobs, or other related positions are all of interest to me! Please feel free to reach out to me if you have any opportunities that you think I could be a good fit for!
-
 ## GitHub Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=joanne-chang&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
